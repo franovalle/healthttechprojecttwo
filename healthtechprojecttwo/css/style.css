@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  font-family: Rubik Doodle Shadow, Arial, Helvetica, sans-serif
+}
+
+.clear {
+  clear: both;
+}
+
+section{
+  border: 1px solid black;
+  height: 200px;
+  width: 100%; 
+  float: left; 
+  font-size: 3rem; 
+}
+
+div{
+  border: 1px solid black;
+  height: 200px;
+  width: 33.333%; 
+  float: left; 
+  
+}
+h1, h2{
+  text-align: center;
+  font-size: 3rem;
+}
+.footer{
+  text-align: center;
+  font-size: .8rem;
+  
+  
+
+}
