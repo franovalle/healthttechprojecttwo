@@ -1,6 +1,6 @@
 Health Tech Project Two: Medical Tic Tac Toe
 
-A fun twist on the classic Tic Tac Toe game! Instead of the traditional X and O, I’ve replaced them with hospital and pill emojis to give the game a unique medical flair.
+A fun twist on the classic Tic Tac Toe game! Instead of the traditional X and O, I’ve replaced them with face mask and pill emojis to give the game a unique medical flair.
 
 Full Website: https://vitalsplay.netlify.app/
 
