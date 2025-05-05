@@ -15,4 +15,7 @@ How It's Made:
 
 Built with HTML, CSS, and JavaScript to create an engaging, simple, and fun experience.
 
+Known Issues
+🛠️ There is a small bug currently affecting gameplay logic. I'm aware of it and will be working on a fix soon!
+
 
